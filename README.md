@@ -128,7 +128,7 @@ In this section, we will create a basic HTML page with the following structure:
         </article>
     </section>
     <footer>
-        <p>&copy; 2021 My website</p>
+        <p>&copy; 2025 My website</p>
     </footer>
 </body>
 </html>
