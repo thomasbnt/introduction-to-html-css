@@ -1,0 +1,2 @@
+> [!NOTE]
+> If you want to see the preview of your HTML page, [you can open it here](https://previewhtml.github.io/?url=https://raw.githubusercontent.com/thomasbnt/introduction-to-html-css/refs/heads/main/src/index.html) or `git clone` this repository.
